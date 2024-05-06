@@ -16,7 +16,7 @@ Key takeaways:
 
 Special thanks to Dhaval Patel and Hemanand Vadivel for curating such enriching projects that offer practical learning experiences. 👏
 
-For those interested in diving into the SQL codes, check out my GitHub repository [here](link). 📂
+For those interested in diving into the SQL codes, check out this GitHub repository. 📂
 
 Let's keep coding and exploring together! 💻✨
 
